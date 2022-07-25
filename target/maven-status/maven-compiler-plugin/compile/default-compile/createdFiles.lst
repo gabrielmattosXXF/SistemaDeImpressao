@@ -1,0 +1,13 @@
+Model\Arquivo.class
+Model\Imagens.class
+Model\SistemaDeImpressao.class
+Model\Impressao.class
+Model\Cliente.class
+Model\Empresa.class
+Model\Funcionario.class
+Model\PDF.class
+Model\Word.class
+View\TelaFuncionario.class
+Model\Pessoa.class
+View\Sistema.class
+Model\Parceiro.class
